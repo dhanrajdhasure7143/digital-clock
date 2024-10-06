@@ -81,7 +81,7 @@ setInterval(setTime, 1000)
  * Logs the author of the program to the console.
  */
 function author() {
-    console.log('Created with  by Dhanraj D. Hasure');
+    console.log('Created with ❤️ by Dhanraj D. Hasure');
 }
 
 /**
